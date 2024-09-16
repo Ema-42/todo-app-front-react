@@ -65,7 +65,7 @@ export default function UsersPage() {
   return (
     <div className="min-h-screen   bg-[#E8F0FE] dark:bg-gray-800 text-gray-800 dark:text-gray-200   ">
       <div className="container mx-auto p-4">
-        <h1 className="text-3xl font-bold mb-6 text-[#2560E5] dark:text-white">
+        <h1 className="text-3xl font-bold mb-4 text-[#2560E5] dark:text-white">
           Gestión de Usuarios
         </h1>
 
