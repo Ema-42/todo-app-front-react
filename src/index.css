@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fondo y color de texto para modo claro */
+html {
+  @apply bg-white text-gray-900;
+}
+
+/* Fondo y color de texto para modo oscuro */
+html.dark {
+  @apply bg-gray-900 text-gray-100;
+}
